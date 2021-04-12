@@ -102,8 +102,8 @@ dependencies {
 
     implementation 'org.apache.maven.shared:maven-invoker:3.0.0'
     implementation "org.springframework.boot:spring-boot"
-    implementation 'org.yaml:snakeyaml:1.+'
-    implementation 'org.zeroturnaround:zt-zip:1.13'
+    implementation 'org.yaml:snakeyaml:1.28'
+    implementation 'org.zeroturnaround:zt-zip:1.+'
     implementation 'org.freemarker:freemarker:2.3.26-incubating'
 
     implementation 'bogus.package.com:1.2.3'
