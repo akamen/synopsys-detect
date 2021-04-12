@@ -91,6 +91,7 @@ dependencies {
     implementation project(':detectable')
     implementation project(':detector')
     implementation project(':polaris')
+    implementation project(':breakme')
 
     implementation 'ch.qos.logback:logback-classic:1.2.3'
 
